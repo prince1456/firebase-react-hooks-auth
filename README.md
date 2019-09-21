@@ -2,9 +2,9 @@ Libs @material-ui, @material-ui/icons, react-router-dom, firebase
 
 
 
-goal 
-how to authenticate with fireabase
-how to use useState, useEffect 
+goal to achieve: 
+1. how to authenticate with Firebase
+2. how to use useState, useEffect 
 
 how to run 
 
