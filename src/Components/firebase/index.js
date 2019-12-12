@@ -3,13 +3,13 @@ import 'firebase/auth'
 import 'firebase/firebase-firestore';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCDvfJVYAv4GeznRe3AlB62ZnURl1_Nkyk",
+    apiKey: "AIzaSyCDvfJVYAv4GeznRe3AlB62ZnURl1_Nkykss",
     authDomain: "authenicatiobn.firebaseapp.com",
     databaseURL: "https://authenicatiobn.firebaseio.com",
-    projectId: "authenicatiobn",
+    projectId: "authenicatiobna",
     storageBucket: "",
-    messagingSenderId: "964201728987",
-    appId: "1:964201728987:web:2e3f3433fdb73ba52ab5fe"
+    messagingSenderId: "96420172s8987",
+    appId: "1:964201728987:web:2e3fs3433fdb73ba52ab5fe"
   };
   // Initialize Firebase
   class Firebase {
